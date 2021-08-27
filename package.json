@@ -1,0 +1,11 @@
+{
+  "name": "linkshort",
+  "version": "0.1.0",
+  "main": "index.js",
+  "author": "henrik",
+  "license": "MIT",
+  "dependencies": {
+    "itty-router": "^2.4.2",
+    "nanoid": "^3.1.25"
+  }
+}

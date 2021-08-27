@@ -1,0 +1,7 @@
+name = "linkshort"
+type = "webpack"
+route = ''
+zone_id = ''
+usage_model = ''
+compatibility_flags = []
+workers_dev = true
