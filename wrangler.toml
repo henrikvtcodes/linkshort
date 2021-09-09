@@ -5,3 +5,7 @@ zone_id = ''
 usage_model = ''
 compatibility_flags = []
 workers_dev = true
+
+kv_namespaces = [ 
+         { binding = "linkshort", preview_id = "79b3a079742e42269c588e8701c270c7", id = "bb47d4f72bd847978d2e22f52e635c68" }
+]
