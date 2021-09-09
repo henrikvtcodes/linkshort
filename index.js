@@ -24,6 +24,7 @@ router.get('/:slug', async request => {
 
 router.get('/', async request => {
     return new Response(null, {
+      headers: { Location: "https://www.youtube.com/watch?v=dQw4w9WgXcQ" },
       status: 200,
     });
 });
